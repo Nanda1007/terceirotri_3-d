@@ -1,0 +1,7 @@
+body{background-color: blueviolet;
+}
+.p1 {text-align: left;
+}
+.p1 {border-style: double;
+border-color: aquamarine;
+border-width: 10px;}
